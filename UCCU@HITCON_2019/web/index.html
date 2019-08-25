@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html class="h-100" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/page.css">
+    <title>UCCU Leak Lookup - Search Info Leak from UCCU Database</title>
+</head>
+
+<body class="h-100">
+    <nav id="nav" class="navbar fixed-top navbar-expand-lg">
+        <div class="container">
+            <nav class="navbar navbar-dark">
+                <a class="navbar-brand" href="#">UCCU Leak Lookup</a>
+            </nav>
+        </div>
+    </nav>
+    <section id="main d-flex">
+        <div id="particles-js" class="bg"></div>
+        <div class="container main-heading">
+            <div class="text-center pt-5 mt-5">
+                <img height="20%" width="20%" src="assets/image/Logo.png">
+                <h1 class="display-5 font-weight-normal">UCCU Leak Lookup</h1>
+                <p class="lead">Easy-to-use and fast lookup service for database leaks</p>
+            </div>
+            <div class="d-flex justify-content-center">
+                <div class="col-md-5 my-5">
+                    <form id="list">
+                        <div class="form-group">
+                            <textarea class="form-control" id="input" rows="5"></textarea>
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <button type="submit" class="btn btn-block btn-success w-50">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="result-section" class="">
+        <div id="div-res" class="container d-none">
+            <div class="d-flex justify-content-center">
+                <div class="col-md-10 pt-5 mt-5">
+                    <h2>Result:</h2>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Query</th>
+                                <th>Result</th>
+                            </tr>
+                        </thead>
+                        <tbody id="result">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/particles.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

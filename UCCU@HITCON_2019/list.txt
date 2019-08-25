@@ -1,0 +1,200 @@
+ssid/password
+xfinitywifi/123456
+linksys/123456789
+<no ssid>/12345678
+BTWiFi-with-FON/12345
+NETGEAR/111111
+Ziggo/1234567
+dlink/sunshine
+BTWifi-X/qwerty
+default/iloveyou
+FreeWifi/princess
+hpsetup/admin
+UPC Wi-Free/welcome
+optimumwifi/666666
+FreeWifi_secure/abc123
+AndroidAP/football
+eduroam/123123
+UCCUinIII/654321
+TELENETHOMESPOT/monkey
+cablewifi/!@#$%^&*
+KPN Fon/charlie
+SFR WiFi Mobile/aa123456
+asus/donald
+belkin54g/password1
+TelenetWiFree/qwerty123
+wireless/fuckme
+Home/hunter
+orange/trustno1
+SFR WiFi FON/fuckyou
+Guest/ranger
+Fritz!Box Fon WLAN 7390/buster
+TWCWiFi/thomas
+BTOpenzone/tigger
+UPC WifiSpots/robert
+setup/soccer
+BTFON/fuck
+WLAN/batman
+UCCUinTANET/test
+no_ssid/pass
+Telekom_FON/killer
+FRITZ!Box 7490/hockey
+KD WLAN Hotspot+/george
+portthru/charlie
+SFR WiFi Public/andrew
+FRITZ!Box Fon WLAN 7170/michelle
+FRITZ!Box 7362 SL/love
+FRITZ!Box Fon WLAN 7270/sunshine
+0001softbank/jessica
+FRITZ!Box 7312/asshole
+internet/6969
+FRITZ!Box Fon WLAN 7112/pepper
+FON_ZON_FREE_INTERNET/daniel
+iPhone/access
+UCCUinISDA/123456789
+Bouygues Telecom Wi-Fi/654321
+PROXIMUS_AUTO_FON/joshua
+FRITZ!Box 6360 Cable/maggie
+ZyXEL/starwars
+FRITZ!Box Fon WLAN 7360/silver
+PROXIMUS_FON/william
+FON_BELGACOM/dallas
+Tp-link/yankees
+UCCUinTWCERT/123123
+BTOpenzone-H/ashley
+TWCWiFi-Passpoint/666666
+Free Public WiFi/hello
+hhonors/amanda
+_AUTO_ONOWiFi/orange
+FON_FREE_INTERNET/biteme
+ACTIONTEC/freedom
+UCCUinKaohsiung/computer
+VOIP/sexy
+au_Wi-Fi/thunder
+freephonie/nicole
+SMC/ginger
+(null)/heather
+FON_NETIA_FREE_INTERNET/hammer
+FRITZ!Box Fon WLAN 7113/summer
+Wi2premium/corvette
+BELTELECOM WIFI/taylor
+wifi/fucker
+vodafone-WiFi/austin
+UCCUinNCHC/1111
+EAGLE/merlin
+Wi2premium_club/matthew
+MyPlace/121212
+FRITZ!Box 7330 SL/golfer
+iptime/cheese
+Motorola/princess
+airportthru/martin
+Sitecom/chelsea
+FRITZ!Box 6490 Cable/patrick
+D-LINK/richard
+orange12/diamond
+UCCUinTDOH/yellow
+ShawOpen/bigdog
+<hidden ssid>/secret
+wlan-ap/asdfgh
+dd-wrt/sparky
+au_Wi-Fi2/cowboy
+Orange_FunSpot/camaro
+FRITZ!Box WLAN 3170/anthony
+Concrete/matrix
+Netcomm Wireless/falcon
+UCCUinCOSCUP/iloveyou
+ollehWiFi/bailey
+FRITZ!Box Fon WLAN 7320/guitar
+Darmowe_Orange_WiFi/jackson	
+0000docomo/purple
+skynet/scooter
+netgear-guest/phoenix
+FRITZ!Box Fon WLAN 7240/aaaaaa
+101/morgan
+HomeNet/tigers
+Telstra AIR/porsche
+DIR-300NRU/mickey
+Telekom/maverick
+UCCUinBambooFox/cookie
+logitecuser/nascar
+MSHOME/peanut
+HTC Portable Hotspot/justin
+logitecgameuser/131313
+FRITZ!Box Fon WLAN 7141/money
+Fon WiFi/horny
+FRITZ!Box Gastzugang/samantha
+XFINITY/panties
+FRITZ!Box WLAN 3270/steelers
+office/joseph
+Bright House Networks/snoopy
+3Com/boomer	
+UCCUinTaipei/whatever
+DIR-615/iceman
+_The Cloud/smokey
+bandsaw/gateway
+Casa/dakota
+0002softbank/cowboys
+Neuf WiFi/eagles
+Target Guest Wi-Fi/chicken
+TrendNET/dick
+CMCC/black
+tsunami/zxcvbn
+UCCUinDEFCON/please
+Dom/andrea
+Speedport W 501V/ferrari
+guestnet/knight
+OTE WiFi Fon/hardcore
+FRITZ!Box 6340 Cable/melissa
+test/compaq
+airport/coffee
+walmartwifi/booboo
+A9F1BDF1DAB1NVT4F4F59/bitch
+FRITZ!Box 7330/johnny
+MEO-WIFI/bulldog
+THOMSON/xxxxxx
+BTWi-fi/welcome
+Marriott_Guest/james
+myLGNet/player
+ASUS_5G/ncc1701
+coxwifi/wizard
+UCCUinSECCON/scooby
+public/charles
+Horizon Wi-Free/junior
+<Hidden Network>/internet
+mobile/bigdick
+ZTE/mike
+WirelessNet/brandy
+UCCUinHITCON/UCCU4Cmt15Level2Ch
+Philips WiFi/blowjob
+FRITZ!Box Fon WLAN 7360 SL/banana
+DIRECT-/monster
+NETGEAR_EXT/spider
+TENDA/lakers
+WOW FI - FASTWEB/miller
+FRITZ!Box 7272/rabbit
+virus/enter
+UCCUinTainan/mercedes
+ALICE-WLAN/brandon
+FRITZ!Box WLAN 3131/steven
+O2 WIFI/fender
+.FREE_Wi-Fi_PASSPORT/john
+FON_FREE_EAP/yamaha
+RSS-351540/diablo
+xerox/chris
+tmobile/boston
+Alex/tiger
+KPN/marine
+BHN Secure/chicago
+dge/rangers
+Voice/gandalf
+docomo/winter
+UCCUinKsquare/bigtits
+FRITZ!Box Fon WLAN 7170 Annex A/barney
+Private/edward
+FRITZ!Box Fon WLAN 7050/raiders
+Linksys-G/porn
+VOO_HOMESPOT/badboy
+Home Network/blowme
+YOTA/spanky
+Fon/bigdaddy
+EdiMAX/johnson

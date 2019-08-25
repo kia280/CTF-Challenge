@@ -1,0 +1,23 @@
+FROM phusion/baseimage:master-amd64 
+
+# Install Web Server
+ARG DEBIAN_FRONTEND=noninteractive
+RUN apt-get update -y && apt-get install -y apache2 php7.2 php7.2-xml libapache2-mod-php
+
+# Init Challenge
+ADD web /var/www/html/
+
+# Add FLAG
+RUN mkdir -p /uccu_hacker/secret_AP
+ADD list.txt /uccu_hacker/secret_AP/
+
+# Add HINT
+RUN useradd 'USE-DEFAULT-DIR-PATH-TO-GET-SRC'
+
+# Add run.sh
+RUN mkdir -p /etc/my_init.d 
+ADD run.sh /etc/my_init.d/run.sh
+RUN chmod +x /etc/my_init.d/run.sh
+
+EXPOSE 80
+CMD ["/sbin/my_init"]
