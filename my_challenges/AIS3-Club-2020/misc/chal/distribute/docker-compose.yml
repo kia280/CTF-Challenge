@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  escape_route:
+    build: .
+    ports:
+      - "4001:22"

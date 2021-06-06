@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  revenge_of_the_intel:
+    build: .
+    volumes:
+      - ./share:/home/RevengeOfTheIntel:ro
+      - ./xinetd:/etc/xinetd.d/RevengeOfTheIntel:ro
+    ports:
+      - "10102:10102"
+    expose:
+      - "10102"

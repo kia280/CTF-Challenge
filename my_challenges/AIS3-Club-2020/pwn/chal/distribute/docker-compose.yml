@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  top_of_the_stack:
+    build: .
+    ports:
+      - "5001:5001"
+    expose:
+      - "5001"
